@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Recurse",
+            "request": "launch",
+            "mainClass": "Recurse",
+            "projectName": "Unit6_bf837ff3"
+        },
+        {
+            "type": "java",
+            "name": "SortUnitTest",
+            "request": "launch",
+            "mainClass": "SortUnitTest",
+            "projectName": "Unit6_bf837ff3"
+        },
+        {
+            "type": "java",
+            "name": "SearchTest",
+            "request": "launch",
+            "mainClass": "SearchTest",
+            "projectName": "Unit6_bf837ff3"
+        },
+        {
+            "type": "java",
+            "name": "BlackjackPlayerUnitTest",
+            "request": "launch",
+            "mainClass": "BlackjackPlayerUnitTest",
+            "projectName": "Unit6_bf837ff3"
+        },
+        {
+            "type": "java",
+            "name": "BlackjackRunner",
+            "request": "launch",
+            "mainClass": "BlackjackRunner",
+            "projectName": "Unit6_bf837ff3"
+        },
+        {
+            "type": "java",
+            "name": "BlackjackGame",
+            "request": "launch",
+            "mainClass": "BlackjackGame",
+            "console": "integratedTerminal",
+            "projectName": "Unit6_bf837ff3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
